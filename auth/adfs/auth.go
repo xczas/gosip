@@ -7,8 +7,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/czas/gosip"
-	"github.com/czas/gosip/cpass"
+	"github.com/xczas/gosip"
+	"github.com/xczas/gosip/cpass"
 )
 
 // AuthCnfg : auth config structure

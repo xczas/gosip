@@ -4,7 +4,7 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/czas/gosip/cpass"
+	"github.com/xczas/gosip/cpass"
 )
 
 func main() {

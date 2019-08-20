@@ -3,7 +3,7 @@ package tmg
 import (
 	"testing"
 
-	h "github.com/czas/gosip/test/helpers"
+	h "github.com/xczas/gosip/test/helpers"
 )
 
 var (

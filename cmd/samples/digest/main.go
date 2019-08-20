@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/czas/gosip"
-	strategy "github.com/czas/gosip/auth/ntlm"
+	"github.com/xczas/gosip"
+	strategy "github.com/xczas/gosip/auth/ntlm"
 )
 
 func main() {

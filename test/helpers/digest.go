@@ -3,8 +3,8 @@ package helpers
 import (
 	"fmt"
 
-	"github.com/czas/gosip"
-	u "github.com/czas/gosip/test/utils"
+	"github.com/xczas/gosip"
+	u "github.com/xczas/gosip/test/utils"
 )
 
 // CheckDigest : check getting form digest

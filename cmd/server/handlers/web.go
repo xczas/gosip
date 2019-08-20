@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/czas/gosip"
+	"github.com/xczas/gosip"
 )
 
 // GetWeb : ...

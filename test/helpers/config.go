@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	u "github.com/czas/gosip/test/utils"
+	u "github.com/xczas/gosip/test/utils"
 )
 
 // ConfigExists : checks if the config file exists

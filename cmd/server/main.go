@@ -4,8 +4,8 @@ import (
 	"log"
 	"net/http"
 
-	strategy "github.com/czas/gosip/auth/saml"
-	"github.com/czas/gosip/cmd/server/handlers"
+	strategy "github.com/xczas/gosip/auth/saml"
+	"github.com/xczas/gosip/cmd/server/handlers"
 )
 
 func main() {

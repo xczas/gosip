@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/czas/gosip"
+	"github.com/xczas/gosip"
 )
 
 // CheckBasicPost : try creating an item

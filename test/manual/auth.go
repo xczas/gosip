@@ -7,14 +7,14 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/czas/gosip"
-	"github.com/czas/gosip/auth/addin"
-	"github.com/czas/gosip/auth/adfs"
-	"github.com/czas/gosip/auth/fba"
-	"github.com/czas/gosip/auth/ntlm"
-	"github.com/czas/gosip/auth/saml"
-	"github.com/czas/gosip/auth/tmg"
-	u "github.com/czas/gosip/test/utils"
+	"github.com/xczas/gosip"
+	"github.com/xczas/gosip/auth/addin"
+	"github.com/xczas/gosip/auth/adfs"
+	"github.com/xczas/gosip/auth/fba"
+	"github.com/xczas/gosip/auth/ntlm"
+	"github.com/xczas/gosip/auth/saml"
+	"github.com/xczas/gosip/auth/tmg"
+	u "github.com/xczas/gosip/test/utils"
 )
 
 // GetAddinAuthTest : Addin auth test scenario

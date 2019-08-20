@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	m "github.com/czas/gosip/test/manual"
+	m "github.com/xczas/gosip/test/manual"
 )
 
 func main() {

@@ -3,8 +3,8 @@ package manual
 import (
 	"fmt"
 
-	"github.com/czas/gosip/auth/addin"
-	u "github.com/czas/gosip/test/utils"
+	"github.com/xczas/gosip/auth/addin"
+	u "github.com/xczas/gosip/test/utils"
 )
 
 // ConfigReaderSpoAddinOnlyTest : test scenario

@@ -4,8 +4,8 @@ import (
 	"os"
 	"testing"
 
-	h "github.com/czas/gosip/test/helpers"
-	u "github.com/czas/gosip/test/utils"
+	h "github.com/xczas/gosip/test/helpers"
+	u "github.com/xczas/gosip/test/utils"
 )
 
 var (

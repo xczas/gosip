@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/czas/gosip"
+	"github.com/xczas/gosip"
 )
 
 // Proxy : ...

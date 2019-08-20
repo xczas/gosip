@@ -6,8 +6,8 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/czas/gosip"
-	u "github.com/czas/gosip/test/utils"
+	"github.com/xczas/gosip"
+	u "github.com/xczas/gosip/test/utils"
 )
 
 // CheckRequest : try sending basic request

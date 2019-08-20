@@ -1,4 +1,4 @@
-module github.com/czas/gosip
+module github.com/xczas/gosip
 
 require (
 	github.com/Azure/go-ntlmssp v0.0.0-20180810175552-4a21cbd618b4
