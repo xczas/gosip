@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/koltyakov/gosip"
+	"github.com/czas/gosip"
 )
 
 // GetDigest : ...

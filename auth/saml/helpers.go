@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/koltyakov/gosip/templates"
+	"github.com/czas/gosip/templates"
 
 	cache "github.com/patrickmn/go-cache"
 )

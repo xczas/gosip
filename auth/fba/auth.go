@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/koltyakov/gosip"
-	"github.com/koltyakov/gosip/cpass"
+	"github.com/czas/gosip"
+	"github.com/czas/gosip/cpass"
 )
 
 // AuthCnfg : auth config structure

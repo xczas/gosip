@@ -8,8 +8,8 @@ import (
 	"strings"
 
 	ntlmssp "github.com/Azure/go-ntlmssp"
-	"github.com/koltyakov/gosip"
-	"github.com/koltyakov/gosip/cpass"
+	"github.com/czas/gosip"
+	"github.com/czas/gosip/cpass"
 )
 
 // AuthCnfg : auth config structure

@@ -5,8 +5,8 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/koltyakov/gosip"
-	strategy "github.com/koltyakov/gosip/auth/adfs"
+	"github.com/czas/gosip"
+	strategy "github.com/czas/gosip/auth/adfs"
 )
 
 func main() {

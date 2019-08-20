@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/koltyakov/gosip"
-	strategy "github.com/koltyakov/gosip/auth/addin"
+	"github.com/czas/gosip"
+	strategy "github.com/czas/gosip/auth/addin"
 )
 
 func main() {

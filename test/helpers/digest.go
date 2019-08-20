@@ -3,8 +3,8 @@ package helpers
 import (
 	"fmt"
 
-	"github.com/koltyakov/gosip"
-	u "github.com/koltyakov/gosip/test/utils"
+	"github.com/czas/gosip"
+	u "github.com/czas/gosip/test/utils"
 )
 
 // CheckDigest : check getting form digest

@@ -10,10 +10,10 @@ import (
 	"time"
 
 	ntlmssp "github.com/Azure/go-ntlmssp"
-	"github.com/koltyakov/gosip"
-	"github.com/koltyakov/gosip/auth/adfs"
-	"github.com/koltyakov/gosip/auth/fba"
-	"github.com/koltyakov/gosip/auth/ntlm"
+	"github.com/czas/gosip"
+	"github.com/czas/gosip/auth/adfs"
+	"github.com/czas/gosip/auth/fba"
+	"github.com/czas/gosip/auth/ntlm"
 )
 
 // SPClientTest : api call test

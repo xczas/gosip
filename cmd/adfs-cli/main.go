@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/koltyakov/gosip/auth/adfs"
+	"github.com/czas/gosip/auth/adfs"
 )
 
 func main() {

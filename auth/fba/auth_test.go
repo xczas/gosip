@@ -3,7 +3,7 @@ package fba
 import (
 	"testing"
 
-	h "github.com/koltyakov/gosip/test/helpers"
+	h "github.com/czas/gosip/test/helpers"
 )
 
 var (

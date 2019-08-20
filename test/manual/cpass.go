@@ -3,7 +3,7 @@ package manual
 import (
 	"fmt"
 
-	"github.com/koltyakov/gosip/cpass"
+	"github.com/czas/gosip/cpass"
 )
 
 // CpassDummyTest : test scenario
